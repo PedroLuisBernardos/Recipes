@@ -20,7 +20,7 @@
 ### Roasted Chickpeas
 
 * <samp>3 cans</samp> chickpeas, drained and rinsed
-* <samp>2 tsp</samp> olive oil
+* <samp>2 tsp</samp> avocado oil
 * <samp>2 tbsp</samp> Italian seasoning
 * <samp>2 tsp</samp> sea salt
 * <samp>½ tsp</samp> pepper

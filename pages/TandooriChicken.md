@@ -1,8 +1,17 @@
 # 🍗 Tandoori chicken
 
+<table>
+  <tr>
+    <td>Prep time: at least 4 hours</td>
+    <td>Cook time: 40 mins</td>
+    <td>Total time: at least 5 hours</td>
+    <td>Serves: 3</td>
+  </tr>
+</table>
+
 ## Ingredients
 
-* chicken for two
+* chicken
 * <samp>2 tsp</samp> ginger paste
 * <samp>2 tsp</samp> garlic paste
 * <samp>4 tsp</samp> kashmir red chilli powder
