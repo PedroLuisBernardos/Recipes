@@ -11,13 +11,19 @@
 
 ## Ingredients
 
+### First marination
+
 * chicken
 * <samp>2 tsp</samp> ginger paste
 * <samp>2 tsp</samp> garlic paste
-* <samp>4 tsp</samp> kashmir red chilli powder
+* <samp>2 tsp</samp> kashmir red chilli powder
 * <samp>2 tsp</samp> salt
 * <samp>1</samp> lemon
+
+### Second marination
+
 * <samp>3 tbsp</samp> mustard oil
+* <samp>2 tsp</samp> kashmir red chilli powder
 * <samp>½ tsp</samp> carom seeds
 * <samp>2 tbsp</samp> gram flour
 * <samp>¼ tsp</samp> turmeric powder
@@ -33,7 +39,7 @@
 
 ### First Marination
 
-1. In a large bowl marinate the <samp>chicken</samp> with the <samp>ginger paste</samp>, the <samp>garlic paste</samp>, <samp>2 tsp</samp> of <samp>red chili powder</samp>, the juice of the <samp>lemon</samp> and <samp>1½ tsp</samp> of salt.
+1. In a large bowl marinate the <samp>chicken</samp> with the <samp>ginger paste</samp>, the <samp>garlic paste</samp>, <samp>2 tsp</samp> of <samp>red chili powder</samp>, the juice of the <samp>lemon</samp> and <samp>1½ tsp</samp> of <samp>salt</samp>.
 1. Mix it well and keep It aside for 15-20 minutes.
 
 ## Second Marination
@@ -51,7 +57,7 @@
 
 1. Preheat the oven to <samp>180°C (355°F)</samp> for 5-6 minutes.
 1. Place the chicken on a grill over a plaque and cook for 15-20 minutes.
-1. Flip in between after 5 to 6 minutes and brush with <samp>ghee</samp>
+1. Flip in between after 5-6 minutes and brush with <samp>ghee</samp>
 1. Cook again for 6-8 minutes.
 1. Remove from the oven; brush the butter over the chicken.
 1. Place the tandoori chicken on serving plates, sprinkle some <samp>chaat masala</samp>, <samp>red chilli powder</samp> on top and serve hot.
