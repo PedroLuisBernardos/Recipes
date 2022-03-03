@@ -15,4 +15,4 @@
 
 Mix <samp>all</samp> the ingridients.
 
-<a href="https://www.whitneyerd.com/2018/05/vegan-kale-caesar-salad.html" target="_blank>Source</a>
+<a href="https://www.whitneyerd.com/2018/05/vegan-kale-caesar-salad.html" target="_blank">Source</a>
