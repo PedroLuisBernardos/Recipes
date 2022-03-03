@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+title: Recettes
+description: Regroupement de recettes
+google_analytics:
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+theme: jekyll-theme-minimal
