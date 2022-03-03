@@ -11,7 +11,7 @@
 
 ## Ingredients
 
-### First marination
+### First marinate
 
 * chicken
 * <samp>2 tsp</samp> ginger paste
@@ -20,7 +20,7 @@
 * <samp>2 tsp</samp> salt
 * <samp>1</samp> lemon
 
-### Second marination
+### Second marinate
 
 * <samp>3 tbsp</samp> mustard oil
 * <samp>2 tsp</samp> kashmir red chilli powder
@@ -31,18 +31,21 @@
 * <samp>¼ tsp</samp> black salt
 * <samp>1½ tsp</samp> garam masala powder
 * <samp>½ tsp</samp> chaat masala
+
+### Other ingredients
+
 * <samp>1 tbsp</samp> ghee
 
 ## Instructions
 
 [Make incisions with a sharp knife on the chicken breast, legs and thighs.](http://harpalssokhi.com/recipe/how-to-cut-chicken-for-tandoori/)
 
-### First Marination
+### First marinate
 
 1. In a large bowl marinate the <samp>chicken</samp> with the <samp>ginger paste</samp>, the <samp>garlic paste</samp>, <samp>2 tsp</samp> of <samp>red chili powder</samp>, the juice of the <samp>lemon</samp> and <samp>1½ tsp</samp> of <samp>salt</samp>.
 1. Mix it well and keep It aside for 15-20 minutes.
 
-## Second Marination
+## Second marinate
 
 1. Turn the heat on medium and heat the <samp>mustard oil</samp> in a pan.
 1. Add the <samp>ajwain (carom seeds)</samp> and the <samp>gram flour</samp>.
