@@ -13,6 +13,6 @@
 
 ## Instructions
 
-Mix **all** the ingridients.
+Mix <samp>all</samp> the ingridients.
 
-[Source](https://www.whitneyerd.com/2018/05/vegan-kale-caesar-salad.html)
+<a href="https://www.whitneyerd.com/2018/05/vegan-kale-caesar-salad.html" target="_blank>Source</a>
