@@ -1,6 +1,6 @@
 # 🍛 Shahi Paneer Punjabi style
 
-<table style="width:100%">
+<table>
   <tr>
     <td>Prep time: 15 mins</td>
     <td>Cook time: 30 mins</td>

@@ -1,6 +1,6 @@
 # 🥗 Vegan Kale Caesar Salad
 
-<table style="width:100%">
+<table>
   <tr>
     <td>Prep time: 10 mins</td>
     <td>Cook time: 30 mins</td>
