@@ -47,4 +47,4 @@
 1. Remove from the oven; brush the butter over the chicken.
 1. Place the tandoori chicken on serving plates, sprinkle some <samp>chaat masala</samp>, <samp>red chilli powder</samp> on top and serve hot.
 
-<a href="https://harpalssokhi.com/recipe/tandoori-chicken-in-oven/" target="_blank>Source</a>
+<a href="https://harpalssokhi.com/recipe/tandoori-chicken-in-oven/" target="_blank">Source</a>
