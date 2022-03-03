@@ -1,4 +1,4 @@
-# Shahi Paneer Punjabi style
+# 🍛 Shahi Paneer Punjabi style
 
 * Prep Time 15 minutes
 * Cook Time 30 minutes
@@ -16,7 +16,7 @@
 * <samp>½ cup</samp> heavy whipping cream or fresh cream or malai (warm)
 * <samp>6-7</samp> strands saffron crushed
 
-### Boiled onion paste
+### 🌰 Boiled onion paste
 
 * <samp>2 tbsp</samp> oil
 * <samp>2 small</samp> red onion roughly chopped
@@ -30,7 +30,7 @@
 * <samp>½ inch</samp> cinnamon stick
 * <samp>⅓ cup</samp> water
 
-### Tomato paste
+### 🍅 Tomato paste
 
 * <samp>2 medium or 1¼ cups</samp> tomatoes chopped and pureed
 
@@ -71,7 +71,7 @@
 1. Stir well and <samp>shahi paneer</samp>.
 1. Garnish it with the remaining Kasuri methi, and fresh cream and coriander leaves.
 
-### Notes
+### 📝 Notes
 
 * Cardamom powder must be added at the end of the cooking process. After adding, do not boil or simmer the gravy otherwise it loses its aroma.
 * You should not simmer for longer after adding paneer pieces. Otherwise, paneer will get chewy.
