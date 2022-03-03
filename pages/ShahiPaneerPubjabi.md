@@ -1,4 +1,4 @@
-a# Shahi Paneer Punjabi style
+# Shahi Paneer Punjabi style
 
 * Prep Time 15 minutes
 * Cook Time 30 minutes
