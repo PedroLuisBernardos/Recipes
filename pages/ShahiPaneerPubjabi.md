@@ -78,3 +78,4 @@
 * Always crush kasoori methi between your palm before adding. By doing so, it releases its flavor at most. Sometimes, kasoori methi catches up moisture (if living in a humid climate) and you cannot crush into powder. In that case, toast it into the microwave for 45 seconds. Let cool down and then crush.
 
 <a href="https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/" target="_blank">Source</a>
+<a href="https://harpalssokhi.com/recipe/shahi-paneer/" target="_blank">Source</a>
