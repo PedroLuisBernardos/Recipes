@@ -1,8 +1,13 @@
 # 🍛 Shahi Paneer Punjabi style
 
-* Prep Time 15 minutes
-* Cook Time 30 minutes
-* Total Time 45 minutes
+<table style="width:100%">
+  <tr>
+    <td>Prep time: 15 mins</td>
+    <td>Cook time: 30 mins</td>
+    <td>Total time: 45 mins</td>
+    <td>Serves: 3</td>
+  </tr>
+</table>
 
 ## Ingredients
 
@@ -64,11 +69,11 @@
 1. Now add the <samp>tomato puree</samp> and <samp>salt</samp>. Mix, cook till all the moisture evaporated and it becomes a thick paste. So stir in between and make sure that it is not sticking to the sides and bottom of the pan. If it is spluttering too much then you can partially cover the pan.
 1. Now add the <samp>red chili powder</samp>, <samp>coriander powder</samp> and <samp>turmeric powder</samp>. Mix well and cook for a minute.
 1. Now mix in the <samp>cashew paste</samp>, <samp>water</samp>, and <samp>sugar</samp>. Simmer for 5-6 minutes. Do stir in between.
-1. Now add <samp>garam masala</samp> and <samp>kasoori methi</samp> (crushed between your palm). Mix well.
+1. Now add <samp>garam masala</samp> and <samp>kasoori methi</samp> (crushed between your palm). Mix well. *[see notes](#notes)*
 1. Add paneer cubes. Mix and simmer for 1-2 minutes.
 1. Now add <samp>saffron-cream mixture</samp>. Mix and let it come to a simmer.
-1. Lastly, add <samp>cardamom powder</samp> and turn off the stove.
-1. Stir well and add <samp>shahi paneer</samp>.
+1. Lastly, add <samp>cardamom powder</samp> and turn off the stove. *[see notes](#notes)*
+1. Stir well and add <samp>shahi paneer</samp>. *[see notes](#notes)*
 1. Garnish witch coriander leaves.
 
 ### 📝 Notes
