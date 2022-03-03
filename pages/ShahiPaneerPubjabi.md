@@ -8,42 +8,42 @@
 
 ### Cashew paste
 
-* 7-8 Cashew nuts
-* ¼ cup Hot water
+* <samp>7-8</samp> cashew nuts
+* <samp>¼ cup</samp> hot water
 
 ### Saffron-cream mixture
 
-* ¼ cup Heavy whipping cream or fresh cream or malai (Warm)
-* 6-7 strands Saffron crushed
+* <samp>¼ cup</samp> heavy whipping cream or fresh cream or malai (warm)
+* <samp>6-7</samp> strands saffron crushed
 
 ### Boiled onion paste
 
-* 1 medium or ¾ cup Red onion roughly chopped
-* 1 Green chili roughly chopped
-* ½ inch Ginger peeled and chopped
-* 2 cloves Garlic chopped
-* 2 Cloves
-* 2 Green cardamoms
-* ½ inch Cinnamon stick
-* ⅓ water
+* <samp>1 medium or ¾ cup</samp> red onion roughly chopped
+* <samp>1</samp> green chili roughly chopped
+* <samp>½ inch</samp> ginger peeled and chopped
+* <samp>2 cloves</samp> garlic chopped
+* <samp>2</samp> cloves
+* <samp>2</samp> green cardamoms
+* <samp>½ inch</samp> cinnamon stick
+* <samp>⅓ cup</samp> water
 
 ### Tomato paste
 
-* 2 medium or 1 ¼ cups Tomatoes chopped and pureed
+* <samp>2 medium or 1¼ cups</samp> tomatoes chopped and pureed
 
 ### Other ingridients
 
-* 6 oz or or 170 grams Paneer cut into triangles or cubes
-* 2 tablespoons Ghee (clarified butter)
-* Salt to taste
-* 1 ½ teaspoon Red chili powder
-* 1 teaspoon Coriander powder
-* ⅛ teaspoon Black pepper powder
+* <samp>200g</samp> paneer cut into triangles or cubes
+* <samp>2 tbsp</samp> ghee
+* <samp>1½ tsp</samp> kashmiri red chili powder
+* <samp>1 tsp</samp> coriander powder
+* <samp>⅛ teaspoon</samp> black pepper powder (you can also add peppercorns directly to the onion paste and blend it)
 * ½ teaspoon Sugar
 * 1 cup Water
 * 1 teaspoon Garam masala
 * 1 teaspoon Kasoori methi (Dried fenugreek leaves) lightly crushed
 * ⅛ teaspoon Green cardamom seeds powder
+* 🧂 salt to taste
 
 ## Instructions
 
