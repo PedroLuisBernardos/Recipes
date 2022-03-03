@@ -1,4 +1,4 @@
-# Poulet Tandoori
+# 🍗 Tandoori chicken
 
 ## Ingredients
 
