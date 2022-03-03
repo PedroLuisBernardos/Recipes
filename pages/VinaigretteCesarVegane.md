@@ -1,4 +1,4 @@
-# Vinaigrette césar végane
+# 🥗 Vinaigrette césar végane
 
 ## Ingridients
 
