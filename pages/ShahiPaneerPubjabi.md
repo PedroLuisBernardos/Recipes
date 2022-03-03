@@ -16,7 +16,7 @@
 * <samp>½ cup</samp> heavy whipping cream or fresh cream or malai (warm)
 * <samp>6-7</samp> strands saffron crushed
 
-### 🌰 Boiled onion paste
+### Boiled onion paste
 
 * <samp>2 tbsp</samp> oil
 * <samp>2 small</samp> red onion roughly chopped
@@ -30,7 +30,7 @@
 * <samp>½ inch</samp> cinnamon stick
 * <samp>⅓ cup</samp> water
 
-### 🍅 Tomato paste
+### Tomato paste
 
 * <samp>2 medium or 1¼ cups</samp> tomatoes chopped and pureed
 
@@ -68,8 +68,8 @@
 1. Add paneer cubes. Mix and simmer for 1-2 minutes.
 1. Now add <samp>saffron-cream mixture</samp>. Mix and let it come to a simmer.
 1. Lastly, add <samp>cardamom powder</samp> and turn off the stove.
-1. Stir well and <samp>shahi paneer</samp>.
-1. Garnish it with the remaining Kasuri methi, and fresh cream and coriander leaves.
+1. Stir well and add <samp>shahi paneer</samp>.
+1. Garnish witch coriander leaves.
 
 ### 📝 Notes
 
