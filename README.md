@@ -1,3 +1,3 @@
 # Recipes
 
-See the navigation bar
+See the navigation bar.
