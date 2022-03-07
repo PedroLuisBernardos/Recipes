@@ -20,7 +20,7 @@
 ### Roasted Chickpeas
 
 * <samp>3 cans</samp> chickpeas, drained and rinsed
-* <samp>2 tsp</samp> avocado oil
+* <samp>2 tsp</samp> olive oil
 * <samp>2 tbsp</samp> Italian seasoning
 * <samp>2 tsp</samp> sea salt
 * <samp>½ tsp</samp> pepper
@@ -31,7 +31,7 @@
 * <samp>½ cup</samp> lemon juice (about 1 lemon)
 * <samp>4 tablespoons</samp> garlic, minced
 * <samp>3 tablespoons</samp> capers with brine
-* <samp>2 tablespoon</samp> dijon mustard
+* <samp>3 tablespoons</samp> dijon mustard
 * <samp>4 tablespoons</samp> olive oil
 * <samp>2 teaspoon</samp> maple syrup
 * 🧂 salt and pepper to taste
