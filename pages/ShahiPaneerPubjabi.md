@@ -1,14 +1,14 @@
 # 🍛 Shahi Paneer Punjabi style
 
-<table table table-striped>
+<table class="table table-striped">
     <tr>
         <td colspan="2">
-        <ul>
-            <li>Prep time: 15 mins</li>
-            <li>Cook time: 30 mins</li>
-            <li>Total time: 45 mins</li>
-            <li>Serves: 3</li>
-        </ul>
+            <ul>
+                <li>Prep time: 15 mins</li>
+                <li>Cook time: 30 mins</li>
+                <li>Total time: 45 mins</li>
+                <li>Serves: 3</li>
+            </ul>
         </td>
     </tr>
 </table>

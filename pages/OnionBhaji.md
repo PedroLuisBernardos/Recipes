@@ -1,6 +1,6 @@
 # 🧅 Onion Bhaji with Raita
 
-<table table table-striped>
+<table class="table table-striped">
     <tr>
         <td colspan="2">
         <ul>
@@ -24,7 +24,6 @@
     <tr>
       <th colspan="2">Oinon Bhaji</th>
     </tr>
-    <tr>
     <tr>
       <td scope="row">
         <ul>

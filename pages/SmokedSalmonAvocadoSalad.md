@@ -1,6 +1,6 @@
 # 🥗 Smoked Salmon Avocado Salad
 
-<table table table-striped>
+<table class="table table-striped">
     <tr>
         <td colspan="2">
         <ul>
