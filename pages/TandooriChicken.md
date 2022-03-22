@@ -20,6 +20,7 @@
       <th scope="col">Steps</th>
     </tr>
   </thead>
+  <tbody>
     <tr>
       <th colspan="2">First marinade</th>
     </tr>

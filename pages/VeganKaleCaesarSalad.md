@@ -20,6 +20,7 @@
       <th scope="col">Steps</th>
     </tr>
   </thead>
+  <tbody>
     <tr>
       <th colspan="2">Kale Caesar Salad</th>
     </tr>
