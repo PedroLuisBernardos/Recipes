@@ -16,9 +16,8 @@
             <li>Total time: 45 mins</li>
             <li>Serves: 3</li>
         </ul>
-      </th>
+      </td>
     </tr>
-    <tr>
     <tr>
       <th colspan="2">Cashew paste</th>
     </tr>
@@ -137,7 +136,7 @@
             <li>Cardamom powder must be added at the end of the cooking process. After adding, do not boil or simmer the gravy otherwise it loses its aroma.</li>
             <li>You should not simmer for longer after adding paneer pieces. Otherwise, paneer will get chewy.</li>
             <li>Always crush kasoori methi between your palm before adding. By doing so, it releases its flavor at most. Sometimes, kasoori methi catches up moisture (if living in a humid climate) and you cannot crush into powder. In that case, toast it into the microwave for 45 seconds. Let cool down and then crush.</li>
-        </ol>
+        </ul>
       </td>
     </tr>
     <tr>
@@ -148,7 +147,7 @@
         <ul>
             <li><a href="https://www.spiceupthecurry.com/shahi-paneer-recipe-restaurant-style/" target="_blank">spiceupthecurry</a></li>
             <li><a href="https://harpalssokhi.com/recipe/shahi-paneer/" target="_blank">harpalssokhi</a></li>
-        </ol>
+        </ul>
       </td>
     </tr>
   </tbody>
