@@ -130,6 +130,7 @@
             <li>Garnish witch coriander leaves.</li>
         </ol>
       </td>
+    </tr>
     <tr>
       <th colspan="2">📝 Notes</th>
     </tr>
