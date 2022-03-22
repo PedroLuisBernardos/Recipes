@@ -48,7 +48,6 @@
       <th colspan="2">Raita</th>
     </tr>
     <tr>
-    <tr>
       <td scope="row">
         <ul>
             <li>½ cucumber</li>
