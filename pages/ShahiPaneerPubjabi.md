@@ -1,13 +1,6 @@
 # 🍛 Shahi Paneer Punjabi style
 
 <table class="table table-striped table-dark">
-  <thead>
-    <tr>
-      <th scope="col">Ingredients</th>
-      <th scope="col">Steps</th>
-    </tr>
-  </thead>
-  <tbody>
     <tr>
       <td colspan="2">
         <ul>
@@ -18,6 +11,12 @@
         </ul>
       </td>
     </tr>
+  <thead>
+    <tr>
+      <th scope="col">Ingredients</th>
+      <th scope="col">Steps</th>
+    </tr>
+  </thead>
     <tr>
       <th colspan="2">Cashew paste</th>
     </tr>
