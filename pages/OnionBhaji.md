@@ -1,4 +1,4 @@
-# Onion Bhaji
+# 🧅 Onion Bhaji
 
 <table table table-striped>
     <tr>

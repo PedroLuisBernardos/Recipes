@@ -1,4 +1,4 @@
-# Indian Chicken Curry (Murgh Kari)
+# 🍛 Indian Chicken Curry (Murgh Kari)
 
 <table table table-striped>
     <tr>

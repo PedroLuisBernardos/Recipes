@@ -65,7 +65,7 @@
             <li>Add the <samp>ajwain (carom seeds)</samp> and the <samp>gram flour</samp>.</li>
             <li>Mix it well and cook for 2 minutes.</li>
             <li>Switch off the flame and add the <samp>turmeric powder</samp>. Stir continuously. Keep it aside.</li>
-            <li>Take a mixing bowl to add the <samp>yogurt</samp>, the remaining <samp>red chili powder</samp>, the <samp>black salt</samp>, the cooked <samp>gram flour</samp> and <samp>½tsp</samp> of <samp>salt</samp>.</li>
+            <li>Take a mixing bowl to add the <samp>yogurt</samp>, the <samp>red chili powder</samp>, the <samp>black salt</samp>, the cooked <samp>gram flour</samp> and <samp>½tsp</samp> of <samp>salt</samp>.</li>
             <li>Wisk and mix it well to get the smooth paste.</li>
             <li>Add <samp>garam masala</samp>, mix well.</li>
             <li>Add the <samp>first marinated chicken</samp>, mix it well and keep it aside for at least 3 hours.</li>
