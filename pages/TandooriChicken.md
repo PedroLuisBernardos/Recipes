@@ -37,7 +37,7 @@
       </td>
       <td>
         <ol>
-            <li><a href="http://harpalssokhi.com/recipe/how-to-cut-chicken-for-tandoori/">Make incisions with a sharp knife on the chicken breast, legs and thighs.</a></li>
+            <li><a href="http://harpalssokhi.com/recipe/how-to-cut-chicken-for-tandoori/" target="_blank">Make incisions with a sharp knife on the chicken breast, legs and thighs.</a></li>
             <li>In a large bowl marinate the <samp>chicken</samp> with the <samp>ginger paste</samp>, the <samp>garlic paste</samp>, <samp>2 tsp</samp> of <samp>red chili powder</samp>, the juice of the <samp>lemon</samp> and <samp>1½ tsp</samp> of <samp>salt</samp>.</li>
             <li>Mix it well and keep It aside for 15-20 minutes.</li>
         </ol>
