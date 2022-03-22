@@ -1,52 +1,104 @@
 # 🥗 Vegan Kale Caesar Salad
 
-<table>
-  <tr>
-    <td>Prep time: 10 mins</td>
-    <td>Cook time: 30 mins</td>
-    <td>Total time: 40 mins</td>
-    <td>Serves: 8</td>
-  </tr>
+<table table table-striped>
+    <tr>
+        <td colspan="2">
+        <ul>
+            <li>Prep time: 10 mins</li>
+            <li>Cook time: 30 mins</li>
+            <li>Total time: 40 mins</li>
+            <li>Serves: 8</li>
+        </ul>
+        </td>
+    </tr>
 </table>
 
-## Ingredients
-
-### Kale Caesar Salad
-
-* <samp>3 lb</samp> kale, washed, destemmed, and chopped
-* <samp>1</samp> red cabbage, washed and chopped
-* <samp>½ cup</samp> pepitas
-
-### Roasted Chickpeas
-
-* <samp>3 cans</samp> chickpeas, drained and rinsed
-* <samp>2 tsp</samp> olive oil
-* <samp>2 tbsp</samp> Italian seasoning
-* <samp>2 tsp</samp> sea salt
-* <samp>½ tsp</samp> pepper
-
-### Vinaigrette
-
-* <samp>1 cup</samp> hummus
-* <samp>½ cup</samp> lemon juice (about 1 lemon)
-* <samp>4 tablespoons</samp> garlic, minced
-* <samp>3 tablespoons</samp> capers with brine
-* <samp>3 tablespoons</samp> dijon mustard
-* <samp>4 tablespoons</samp> olive oil
-* <samp>2 teaspoon</samp> maple syrup
-* 🧂 salt and pepper to taste
-
-## Instructions
-
-1. Heat oven to <samp>400°F</samp>.
-1. Toss <samp>chickpeas</samp> with <samp>oil</samp> and <samp>spices</samp> and distribute on a baking sheet.
-1. Bake for 30 minutes, flipping halfway through.
-1. While chickpeas cook, prepare the dressing by combining <samp>all ingredients</samp> in a high powered blender or food processor. *[see notes](#notes)*
-1. Assemble <samp>salad ingredients</samp> and toss with desired amount of dressing.
-1. Top with roasted chickpeas and serve.
-
-### 📝 Notes
-
-Add a splash of water for a thinner consistency. The dressing will also harden up a bit in the refrigerator, so feel free to add a tablespoon or two of warm water to thin it out after it's been refrigerated.
-
-<a href="https://www.whitneyerd.com/2018/05/vegan-kale-caesar-salad.html" target="_blank">Source</a>
+<table class="table table-striped">
+  <thead>
+    <tr>
+      <th scope="col">Ingredients</th>
+      <th scope="col">Steps</th>
+    </tr>
+  </thead>
+    <tr>
+      <th colspan="2">Kale Caesar Salad</th>
+    </tr>
+    <tr>
+      <td scope="row">
+        <ul>
+            <li><samp>3 lb</samp> kale, washed, destemmed, and chopped</li>
+            <li><samp>1</samp> red cabbage, washed and chopped</li>
+            <li><samp>½ cup</samp> pepitas</li>
+        </ul>
+      </td>
+      <td>
+        <ol>
+            <li>Mix all the ingredients.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Roasted Chickpeas</th>
+    </tr>
+    <tr>
+      <td scope="row">
+        <ul>
+            <li><samp>3 cans</samp> chickpeas, drained and rinsed</li>
+            <li><samp>2 tsp</samp> olive oil</li>
+            <li><samp>2 tbsp</samp> Italian seasoning</li>
+            <li><samp>2 tsp</samp> sea salt</li>
+            <li><samp>½ tsp</samp> pepper</li>
+        </ul>
+      </td>
+      <td>
+        <ol>
+            <li>Heat oven to <samp>400°F</samp>.</li>
+            <li>Toss <samp>chickpeas</samp> with <samp>oil</samp> and <samp>spices</samp> and distribute on a baking sheet.</li>
+            <li>Bake for 30 minutes, flipping halfway through.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Vinaigrette</th>
+    </tr>
+    <tr>
+      <td scope="row">
+        <ul>
+            <li><samp>1 cup</samp> hummus</li>
+            <li><samp>½ cup</samp> lemon juice (about 1 lemon)</li>
+            <li><samp>4 tablespoons</samp> garlic, minced</li>
+            <li><samp>3 tablespoons</samp> capers with brine</li>
+            <li><samp>3 tablespoons</samp> dijon mustard</li>
+            <li><samp>4 tablespoons</samp> olive oil</li>
+            <li><samp>2 teaspoon</samp> maple syrup</li>
+            <li>🧂 salt and pepper to taste</li>
+        </ul>
+      </td>
+      <td>
+        <ol>
+            <li>Prepare the dressing by combining <samp>all ingredients</samp> in a high powered blender or food processor. See notes.</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">📝 Notes</th>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <ul>
+            <li>Add a splash of water for a thinner consistency. The dressing will also harden up a bit in the refrigerator, so feel free to add a tablespoon or two of warm water to thin it out after it's been refrigerated.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <th colspan="2">Sources</th>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <ul>
+            <li><a href="https://www.whitneyerd.com/2018/05/vegan-kale-caesar-salad.html" target="_blank">whitneyerd</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
