@@ -1,6 +1,6 @@
 # 🍛 Shahi Paneer Punjabi style
 
-<table class="table table-striped table-dark">
+<table class="table table-striped">
     <tr>
       <td colspan="2">
         <ul>
