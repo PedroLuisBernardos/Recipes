@@ -4,10 +4,10 @@
     <tr>
         <td colspan="2">
         <ul>
-            <li>Prep time: 10 mins</li>
-            <li>Cook time: 30 mins</li>
-            <li>Total time: 40 mins</li>
-            <li>Serves: 8</li>
+            <li>Prep time: 20 mins</li>
+            <li>Cook time: 40 mins</li>
+            <li>Total time: 1 hour</li>
+            <li>Serves: 4</li>
         </ul>
         </td>
     </tr>
@@ -22,73 +22,38 @@
   </thead>
   <tbody>
     <tr>
-      <th colspan="2">Kale Caesar Salad</th>
-    </tr>
-    <tr>
       <td scope="row">
         <ul>
-            <li><samp>3 lb</samp> kale, washed, destemmed, and chopped</li>
-            <li><samp>1</samp> red cabbage, washed and chopped</li>
-            <li><samp>½ cup</samp> pepitas</li>
+            <li>2 pounds skinless, boneless chicken breast halves</li>
+            <li>2 teaspoons salt</li>
+            <li>½ cup cooking oil</li>
+            <li>1 ½ cups chopped onion</li>
+            <li>1 tablespoon garlic paste</li>
+            <li>1 ½ teaspoons ginger paste</li>
+            <li>1 tablespoon curry powder</li>
+            <li>1 teaspoon ground cumin</li>
+            <li>1 teaspoon ground turmeric</li>
+            <li>1 teaspoon ground coriander</li>
+            <li>1 teaspoon cayenne pepper</li>
+            <li>1 tablespoon water</li>
+            <li>1 (15 ounce) can crushed tomatoes</li>
+            <li>1 cup plain yogurt</li>
+            <li>1 tablespoon chopped fresh cilantro</li>
+            <li>1 teaspoon salt</li>
+            <li>½ cup water</li>
+            <li>1 teaspoon garam masala</li>
+            <li>1 tablespoon chopped fresh cilantro</li>
+            <li>1 tablespoon fresh lemon juice</li>
         </ul>
       </td>
       <td>
         <ol>
-            <li>Mix all the ingredients.</li>
+            <li>Sprinkle the chicken breasts with 2 teaspoons salt.</li>
+            <li>Heat oil in a large skillet over high heat; partially cook the chicken in the hot oil in batches until completely browned on all sides. Transfer browned chicken breasts to a plate and set aside.</li>
+            <li>Reduce the heat to medium and add onion, garlic, and ginger to the oil remaining in the skillet. Cook and stir until onion turns soft and translucent, 5 to 8 minutes. Stir curry powder, cumin, turmeric, coriander, cayenne, and 1 tablespoon of water into the onion mixture; allow to heat together for about 1 minute while stirring. Add tomatoes, yogurt, 1 tablespoon chopped cilantro, and 1 teaspoon salt to the mixture; stir to combine.</li>
+            <li>Return chicken breast to the skillet along with any juices on the plate. Pour in 1/2 cup water and bring to a boil, turning the chicken to coat with the sauce. Sprinkle garam masala and 1 tablespoon cilantro over the chicken.</li>
+            <li>Cover the skillet and simmer until chicken breasts are no longer pink in the center and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Drizzle with lemon juice to serve.</li>
         </ol>
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2">Roasted Chickpeas</th>
-    </tr>
-    <tr>
-      <td scope="row">
-        <ul>
-            <li><samp>3 cans</samp> chickpeas, drained and rinsed</li>
-            <li><samp>2 tsp</samp> olive oil</li>
-            <li><samp>2 tbsp</samp> Italian seasoning</li>
-            <li><samp>2 tsp</samp> sea salt</li>
-            <li><samp>½ tsp</samp> pepper</li>
-        </ul>
-      </td>
-      <td>
-        <ol>
-            <li>Heat oven to <samp>400°F</samp>.</li>
-            <li>Toss <samp>chickpeas</samp> with <samp>oil</samp> and <samp>spices</samp> and distribute on a baking sheet.</li>
-            <li>Bake for 30 minutes, flipping halfway through.</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2">Vinaigrette</th>
-    </tr>
-    <tr>
-      <td scope="row">
-        <ul>
-            <li><samp>1 cup</samp> hummus</li>
-            <li><samp>½ cup</samp> lemon juice (about 1 lemon)</li>
-            <li><samp>4 tablespoons</samp> garlic, minced</li>
-            <li><samp>3 tablespoons</samp> capers with brine</li>
-            <li><samp>3 tablespoons</samp> dijon mustard</li>
-            <li><samp>4 tablespoons</samp> olive oil</li>
-            <li><samp>2 teaspoon</samp> maple syrup</li>
-            <li>🧂 salt and pepper to taste</li>
-        </ul>
-      </td>
-      <td>
-        <ol>
-            <li>Prepare the dressing by combining <samp>all ingredients</samp> in a high powered blender or food processor. See notes.</li>
-        </ol>
-      </td>
-    </tr>
-    <tr>
-      <th colspan="2">📝 Notes</th>
-    </tr>
-    <tr>
-      <td colspan="2">
-        <ul>
-            <li>Add a splash of water for a thinner consistency. The dressing will also harden up a bit in the refrigerator, so feel free to add a tablespoon or two of warm water to thin it out after it's been refrigerated.</li>
-        </ul>
       </td>
     </tr>
     <tr>
