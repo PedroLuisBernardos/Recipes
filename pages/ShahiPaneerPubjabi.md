@@ -27,13 +27,13 @@
     <tr>
       <td scope="row">
         <ul>
-            <li><samp>10-12</samp> cashew nuts</li>
-            <li><samp>¼ cup</samp> hot water</li>
+            <li>10-12 cashew nuts</li>
+            <li>¼ cup hot water</li>
         </ul>
       </td>
       <td>
         <ol>
-            <li>Soak the <samp>cashew nuts</samp> in hot water for 15-20 minutes.</li>
+            <li>Soak the cashew nuts in hot water for 15-20 minutes.</li>
         </ol>
       </td>
     </tr>
@@ -43,13 +43,13 @@
     <tr>
       <td scope="row">
         <ul>
-            <li><samp>½ cup</samp> heavy whipping cream or fresh cream or malai (warm)</li>
-            <li><samp>6-7</samp> strands saffron crushed</li>
+            <li>½ cup heavy whipping cream or fresh cream or malai (warm)</li>
+            <li>6-7 strands saffron crushed</li>
         </ul>
       </td>
       <td>
         <ol>
-            <li>Warm up the <samp>heavy cream</samp> in the microwave for a few seconds. Take few <samp>saffron strands</samp>, crush and add to the warm cream. Mix and keep it aside.</li>
+            <li>Warm up the heavy cream in the microwave for a few seconds. Take few saffron strands, crush and add to the warm cream. Mix and keep it aside.</li>
         </ol>
       </td>
     </tr>
@@ -59,17 +59,17 @@
     <tr>
       <td scope="row">
         <ul>
-            <li><samp>2 tbsp</samp> oil</li>
-            <li><samp>2 small</samp> red onion roughly chopped</li>
-            <li><samp>2-3</samp> green chili roughly chopped</li>
-            <li><samp>1 tbsp</samp> ginger paste</li>
-            <li><samp>6</samp> peppercorn</li>
-            <li><samp>1 tbsp</samp> ginger minced</li>
-            <li><samp>1 tbsp</samp> garlic paste</li>
-            <li><samp>5-6</samp> cloves</li>
-            <li><samp>8-10</samp> green cardamoms</li>
-            <li><samp>½ inch</samp> cinnamon stick</li>
-            <li><samp>⅓ cup</samp> water</li>
+            <li>2 tbsp oil</li>
+            <li>2 small red onion roughly chopped</li>
+            <li>2-3 green chili roughly chopped</li>
+            <li>1 tbsp ginger paste</li>
+            <li>6 peppercorn</li>
+            <li>1 tbsp ginger minced</li>
+            <li>1 tbsp garlic paste</li>
+            <li>5-6 cloves</li>
+            <li>8-10 green cardamoms</li>
+            <li>½ inch cinnamon stick</li>
+            <li>⅓ cup water</li>
         </ul>
       </td>
       <td>
@@ -84,7 +84,7 @@
     <tr>
       <td scope="row">
         <ul>
-            <li><samp>2 medium or 1¼ cups</samp> tomatoes chopped and pureed</li>
+            <li>2 medium or 1¼ cups tomatoes chopped and pureed</li>
         </ul>
       </td>
       <td>
@@ -100,33 +100,33 @@
       <td scope="row">
         <ul>
             <li>The three purées</li>
-            <li><samp>200g</samp> paneer cut into triangles or cubes</li>
-            <li><samp>1 tbsp</samp> ghee</li>
-            <li><samp>1½ tsp</samp> kashmiri red chili powder</li>
-            <li><samp>1 tsp</samp> coriander powder</li>
-            <li><samp>a pinch</samp> turmeric powder</li>
-            <li><samp>½ tsp</samp> sugar</li>
-            <li><samp>1 cup</samp> water</li>
-            <li><samp>1 tsp</samp> garam masala</li>
-            <li><samp>1 tsp</samp> kasoori methi (dried fenugreek leaves) lightly crushed</li>
-            <li><samp>⅛ tsp</samp> green cardamom seeds powder</li>
-            <li><samp>2 tbsp</samp> fresh coriander</li>
+            <li>200g paneer cut into triangles or cubes</li>
+            <li>1 tbsp ghee</li>
+            <li>1½ tsp kashmiri red chili powder</li>
+            <li>1 tsp coriander powder</li>
+            <li>a pinch turmeric powder</li>
+            <li>½ tsp sugar</li>
+            <li>1 cup water</li>
+            <li>1 tsp garam masala</li>
+            <li>1 tsp kasoori methi (dried fenugreek leaves) lightly crushed</li>
+            <li>⅛ tsp green cardamom seeds powder</li>
+            <li>2 tbsp fresh coriander</li>
             <li>Saffron-cream mixture</li>
             <li>🧂 salt to taste</li>
         </ul>
       </td>
       <td>
         <ol>
-            <li>Now make three kinds of purées in the following order: First, make <samp>cashew paste</samp>. Then grind cooked <samp>onion</samp> into a fine paste and then grind roughly chopped <samp>tomatoes</samp> into a puree.</li>
-            <li>Heat the <samp>ghee</samp> in a pan on medium heat. Once hot, sieve and add the prepared <samp>onion paste</samp>. Cook with stirring occasionally till it comes thick. It may take around 5-6 minutes.</li>
-            <li>Now add the <samp>tomato puree</samp> and <samp>salt</samp>. Mix, cook till all the moisture evaporated and it becomes a thick paste. So stir in between and make sure that it is not sticking to the sides and bottom of the pan. If it is spluttering too much then you can partially cover the pan.</li>
-            <li>Now add the <samp>red chili powder</samp>, <samp>coriander powder</samp> and <samp>turmeric powder</samp>. Mix well and cook for a minute.</li>
-            <li>Now mix in the <samp>cashew paste</samp>, <samp>water</samp>, and <samp>sugar</samp>. Simmer for 5-6 minutes. Do stir in between.</li>
-            <li>Now add <samp>garam masala</samp> and <samp>kasoori methi</samp> (crushed between your palm). Mix well. See notes.</li>
+            <li>Now make three kinds of purées in the following order: First, make cashew paste. Then grind cooked onion into a fine paste and then grind roughly chopped tomatoes into a puree.</li>
+            <li>Heat the ghee in a pan on medium heat. Once hot, sieve and add the prepared onion paste. Cook with stirring occasionally till it comes thick. It may take around 5-6 minutes.</li>
+            <li>Now add the tomato puree and salt. Mix, cook till all the moisture evaporated and it becomes a thick paste. So stir in between and make sure that it is not sticking to the sides and bottom of the pan. If it is spluttering too much then you can partially cover the pan.</li>
+            <li>Now add the red chili powder, coriander powder and turmeric powder. Mix well and cook for a minute.</li>
+            <li>Now mix in the cashew paste, water, and sugar. Simmer for 5-6 minutes. Do stir in between.</li>
+            <li>Now add garam masala and kasoori methi (crushed between your palm). Mix well. See notes.</li>
             <li>Add paneer cubes. Mix and simmer for 1-2 minutes.</li>
-            <li>Now add <samp>saffron-cream mixture</samp>. Mix and let it come to a simmer.</li>
-            <li>Lastly, add <samp>cardamom powder</samp> and turn off the stove. See notes.</li>
-            <li>Stir well and add <samp>shahi paneer</samp>. See notes.</li>
+            <li>Now add saffron-cream mixture. Mix and let it come to a simmer.</li>
+            <li>Lastly, add cardamom powder and turn off the stove. See notes.</li>
+            <li>Stir well and add shahi paneer. See notes.</li>
             <li>Garnish witch coriander leaves.</li>
         </ol>
       </td>
