@@ -34,7 +34,7 @@
             <li>½ onion, diced</li>
             <li>1 pound (500g) ground beef/pork/veal mix</li>
             <li>1 egg</li>
-            <li>a bunch of fresh parsley, chopped</li>
+            <li>1 tbsp fresh parsley, chopped</li>
             <li>2 garlic cloves, crushed</li>
             <li>1 tsp salt</li>
             <li>½ tsp black pepper</li>

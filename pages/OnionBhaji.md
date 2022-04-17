@@ -40,7 +40,7 @@
         <ol>
             <li>Soak the onion in cold water while you make the base mix. Sift the flour and baking powder into a bowl, then add the chilli powder, turmeric, chopped chilli and a good sprinkling of salt. Mix in about 100ml of cold water to make a thick batter - add a splash more if it feels too stiff.</li>
             <li>Drain the onion well and mix it into the batter. Heat about 5cm of oil in a wok or deep pan. Do not fill the pan more than a third full. Add a tiny speck of batter. If it rises to the surface surrounded by bubbles and starts to brown, then the oil is hot enough for frying.</li>
-            <li>Lower heaped tbsps of the bhaji mixture into the pan, a few at a time, and cook for a few mins, turning once, until they are evenly browned and crisp, so about 3-4 mins. Drain on kitchen paper, sprinkle with a little salt and keep warm while you cook the rest. </li>
+            <li>Lower heaped tbsps of the bhaji mixture into the pan, a few at a time, and cook for a few mins, turning once, until they are evenly browned and crisp, so about 3-4 mins. Drain on kitchen paper, sprinkle with a little salt and keep warm while you cook the rest.</li>
         </ol>
       </td>
     </tr>
