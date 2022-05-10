@@ -79,7 +79,7 @@
       <td scope="row">
         <ul>
             <li>1 tbsp ghee</li>
-            <li><li>½ tsp chaat masala</li></li>
+            <li>½ tsp chaat masala</li>
         </ul>
       </td>
       <td>
