@@ -1,4 +1,4 @@
-# Oatmeal Cookies
+# 🍪 Oatmeal Cookies
 
 <table class="table table-striped">
     <tr>
@@ -26,19 +26,22 @@
         <ul>
             <li>1½ cups unbleached all-purpose flour</li>
             <li>1½ cups quick-cooking rolled oats</li>
+            <li>1 handful chocolate pepites</li>
+            <li>½ handful walnuts</li>
+            <li>½ handful hazelnuts cut in half</li>
             <li>½ teaspoons baking soda</li>
             <li>¼ teaspoons salt</li>
-            <li>½ cup unsalted butter, softened</li>
-            <li>1¼ cups brown sugar</li>
-            <li>¼ cup canola oil</li>
-            <li>1 teaspoon vanilla extract</li>
+            <li>¾ cups unsalted butter, softened</li>
+            <li>¾ cups brown sugar</li>
+            <li>¼ cups canola oil</li>
+            <li>2 teaspoons vanilla extract</li>
             <li>1 egg</li>
         </ul>
       </td>
       <td>
         <ol>
             <li>With the rack in the middle position, preheat the oven to 190 °C (375 °F). Line two large baking sheets with parchment paper.</li>
-            <li>In a bowl, combine the flour, oats, baking soda, and salt. Set aside.</li>
+            <li>In a bowl, combine the flour, oats, nuts, baking soda, and salt. Set aside.</li>
             <li>In another bowl, cream the butter, brown sugar, oil, and vanilla with an electric mixer. Add the egg and beat until smooth. At low speed or with a wooden spoon, combine with the dry ingredients.</li>
             <li>With a 60 ml (¼ cups) ice cream scoop, place six to seven dough balls on each baking sheet. Press the balls so that they are about 2-cm (¾-inch) thick.</li>
             <li>Bake one sheet at a time for about 12 minutes or until lightly browned. Let cool on a wire rack. Serve warm or cold.</li>

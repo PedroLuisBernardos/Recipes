@@ -1,4 +1,4 @@
-# 🍛 Indian Chicken Coco Curry
+# 🥥 Indian Chicken Coco Curry
 
 <table class="table table-striped">
     <tr>
