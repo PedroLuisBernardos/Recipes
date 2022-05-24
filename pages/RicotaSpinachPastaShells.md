@@ -74,7 +74,7 @@
     <tr>
       <td colspan="2">
         <ul>
-            <li><a href="[https://www.allrecipes.com/recipe/220854/chef-johns-italian-meatballs/](https://www.ricardocuisine.com/en/recipes/8780-ricotta-and-spinach-stuffed-pasta-shells-in-a-rose-sauce)" target="_blank">ricardo</a></li>
+            <li><a href="https://www.ricardocuisine.com/en/recipes/8780-ricotta-and-spinach-stuffed-pasta-shells-in-a-rose-sauce" target="_blank">ricardo</a></li>
         </ul>
       </td>
     </tr>
