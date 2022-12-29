@@ -1,0 +1,71 @@
+{
+        "name": "Tandoori Chicken",
+        "cuisine": "Indian",
+        "preptime": "at least 4 hours",
+        "cooktime": "40 minutes",
+        "totaltime": "around 5 hours",
+        "serves": 8,
+        "image": "",
+        "notes": ["Add a splash of water for a thinner consistency. The dressing will also harden up a bit in the refrigerator, so feel free to add a tablespoon or two of warm water to thin it out after it's been refrigerated."],
+        "sources": [
+            {
+                "name": "harpalssokhi",
+                "url": "https://harpalssokhi.com/recipe/tandoori-chicken-in-oven/"
+            }
+        ],
+        "steps": [{
+                "name": "First marinade",
+                "ingredients": [
+                    {"text": "chicken"},
+                    {"text": "2 tsp ginger paste"},
+                    {"text": "2 tsp garlic paste"},
+                    {"text": "2 tsp kashmir red chilli powder"},
+                    {"text": "2 tsp salt"},
+                    {"text": "1 lemon"}
+                ],
+                "steps": [
+                    "Make incisions with a sharp knife on the chicken breast, legs and thighs.",
+                    "In a large bowl marinate the chicken with the ginger paste, the garlic paste, 2 tsp of red chili powder, the juice of the lemon and 1½ tsp of salt.",
+                    "Mix it well and keep It aside for 15-20 minutes."
+                ]
+            },
+            {
+                "name": "Second marinade",
+                "ingredients": [
+                    {"text": "3 tbsp mustard oil"},
+                    {"text": "2 tsp kashmir red chilli powder"},
+                    {"text": "½ tsp carom seeds"},
+                    {"text": "2 tbsp gram flour"},
+                    {"text": "¼ tsp turmeric powder"},
+                    {"text": "½ cup hung yogurt"},
+                    {"text": "¼ tsp black salt"},
+                    {"text": "1½ tsp garam masala powder"}
+                ],
+                "steps": [
+                    "Turn the heat on medium and heat the mustard oil in a pan.",
+                    "Add the ajwain (carom seeds) and the gram flour.",
+                    "Mix it well and cook for 2 minutes.",
+                    "Switch off the flame and add the turmeric powder. Stir continuously. Keep it aside.",
+                    "Take a mixing bowl to add the yogurt, the red chili powder, the black salt, the cooked gram flour and ½tsp of salt.",
+                    "Wisk and mix it well to get the smooth paste.",
+                    "Add garam masala, mix well.",
+                    "Add the first marinated chicken, mix it well and keep it aside for at least 3 hours."
+                ]
+            },
+            {
+                "name": "Cooking",
+                "ingredients": [
+                    {"text": "1 tbsp ghee"},
+                    {"text": "½ tsp chaat masala"}
+                ],
+                "steps": [
+                    "Preheat the oven to 180°C (355°F) for 5-6 minutes.",
+                    "Place the chicken on a grill over a plaque and cook for 15-20 minutes.",
+                    "Flip in between after 5-6 minutes and brush with ghee",
+                    "Cook again for 6-8 minutes at broil to burn the marinade.",
+                    "Remove from the oven; brush the butter over the chicken.",
+                    "Place the tandoori chicken on serving plates, sprinkle some chaat masala, red chilli powder on top and serve hot."
+                ]
+            }
+        ]
+    }
